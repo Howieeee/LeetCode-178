@@ -1,2 +1,3 @@
 # LeetCode-178
-Rank Scores
+## Rank Scores
+https://leetcode.com/problems/rank-scores/
